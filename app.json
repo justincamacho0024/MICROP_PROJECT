@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "MICROP_PROJECT1",
+    "slug": "microp_project1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Microp_icon.png",
+    "splash": {
+      "image": "./assets/Microp_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.justine00111.microp_project1"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "MiCrop is an  application that brings the user a vast knowledge about the plant world. It offers multiple features including; an introduction on different species of plants, guides on how to nurture them and lastly, it also provides different books and blogs from well-known authors that can be read by the users. This application is still under development and soon to be launched."
+  }
+}
